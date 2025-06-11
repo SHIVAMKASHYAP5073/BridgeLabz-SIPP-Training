@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class program3{
+class FahrenheitConversion{
     public static void main(String[] args){
         System.out.println("Enter temperature in celsius degree :");
 		int a = sc.nextInt();
