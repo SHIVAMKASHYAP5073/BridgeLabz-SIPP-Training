@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class program8 {
+class PowerCalculations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		System.out.println("Enter base:");
