@@ -44,15 +44,15 @@ Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance 
 
 * 📅 20/06/25 (Fri) – Day 1 – Classes & Objects<br>
 Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaClassAndObject)<br>
+🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/OOP/Java%20Class%20and%20Object)<br>
 
 * 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers<br>
 Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaConstructors)<br>
+🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/OOP/JavaContructors)<br>
 
 * 📅 24/06/25 (Tue) – Day 3 – Java Keywords<br>
 Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaKeyWords)<br>
+🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/OOP/JavaKeywords)<br>
 
 * 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling<br>
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
