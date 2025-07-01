@@ -56,29 +56,29 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 * 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling<br>
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/ObjectModeling)<br>
+🔗 [Coming soon]()<br>
 
 ### 🛠️ Workshop Branch
 
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
 Problem Statement : 📚 BookBuddy – Digital Bookshelf App<br>
 📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BooksManagement.java)
+🔗 [Coming Soon]()
 
 * 📅 27/06/25 (Fri) – Day 2 – Coding Review<br>
 Problem Statement : 🧠 Online Quiz Platform – Result Processor<br>
 📘 Scenario: A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)<br>
+🔗 [Coming soon]()<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 1 : ✈️ Flight Booking System<br>
 📘 Scenario: Simulate a basic flight booking system where users can search flights, book them, and view booking details.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/FlightManagement.java)<br>
+🔗 [Coming Soon]()<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CinemaManagement.java)<br>
+🔗 [Coming Soon]()<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
