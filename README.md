@@ -34,11 +34,11 @@ Topics: Understanding String class, string creation, comparing strings, common s
 
 * 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections<br>
-🔗 [Code]()<br>
+🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/Core-Java/Built_In_Functions)<br>
 
 * 📅 19/06/25 (Thu) – Day 8 – Java String Handling<br>
 Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation<br>
-🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/Core-Java/Built_In_Functions)<br>
+🔗 [Code](https://github.com/SHIVAMKASHYAP5073/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString_Handling)<br>
 
 ### 🧱 OOP Branch
 
